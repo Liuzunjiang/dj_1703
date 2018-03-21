@@ -1,0 +1,21 @@
+
+
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
+
+
+com:
+  dj:
+    name: dj
+    age: 1
+cn:
+  dj:
+    user:
+      name: zs
+      age: 11
+      sex: 1
+      classroom: 1703
+      pwd: 001
